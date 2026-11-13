@@ -11,6 +11,7 @@ Quantum Analiz, Borsa İstanbul için kural tabanlı, açıklanabilir bir karar 
 | [quantum-analiz](https://github.com/ferhattkoc-ml/quantum-analiz) | Analitik motorun mimari vitrini: sinyal kesişimi, makro korelasyon, teknik yorum, testler |
 | [multi-agent-systems](https://github.com/ferhattkoc-ml/multi-agent-systems) | İnsan onaylı çoklu ajan orkestrasyon paneli (bul → doğrula → yama → onay → uygula) |
 | [book-analytics-etl-scd2](https://github.com/ferhattkoc-ml/book-analytics-etl-scd2) | SCD Type 2, doğrulama katmanı ve çalışma günlüğü olan ETL hattı |
+| [validation-methodology](https://github.com/ferhattkoc-ml/validation-methodology) | Skor modellerini doğrulama disiplini: önceden kaydedilen eşikler, kasıtlı hata kontrolleri (sentetik veri) |
 
 ## Yaklaşımım
 
