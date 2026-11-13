@@ -12,6 +12,7 @@ Quantum Analiz, Borsa İstanbul için kural tabanlı, açıklanabilir bir karar 
 | [multi-agent-systems](https://github.com/ferhattkoc-ml/multi-agent-systems) | İnsan onaylı çoklu ajan orkestrasyon paneli (bul → doğrula → yama → onay → uygula) |
 | [book-analytics-etl-scd2](https://github.com/ferhattkoc-ml/book-analytics-etl-scd2) | SCD Type 2, doğrulama katmanı ve çalışma günlüğü olan ETL hattı |
 | [validation-methodology](https://github.com/ferhattkoc-ml/validation-methodology) | Skor modellerini doğrulama disiplini: önceden kaydedilen eşikler, kasıtlı hata kontrolleri (sentetik veri) |
+| [arac_fiyat_tahmin](https://github.com/ferhattkoc-ml/arac_fiyat_tahmin) | AudiPredict AI: CatBoost + SHAP ile ikinci el araç fiyat tahmini. SDÜ İstatistik lisans araştırma projeleri bölüm birincisi |
 
 ## Yaklaşımım
 
