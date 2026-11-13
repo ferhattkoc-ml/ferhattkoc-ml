@@ -1,8 +1,8 @@
 # Ferhat Koç
 
-Quantum Analiz'in kurucusu. Veri/ML mühendisi ve mobil geliştirici, Bursa.
+Quantum Analiz'in kurucusu. Data / ML / AI mühendisi, Bursa.
 
-Quantum Analiz, Borsa İstanbul için kural tabanlı, açıklanabilir bir karar destek uygulaması. Mobil uygulamayı (React Native + Expo), Python/FastAPI arka ucunu, veri hattını ve doğrulama sürecini tek başıma geliştiriyorum. Ürünün ilkesi: "Piyasa tahmin edilmez, okunur."
+Quantum Analiz, Borsa İstanbul için kural tabanlı, açıklanabilir bir karar destek uygulaması. Python/FastAPI arka ucunu, veri hattını, doğrulama sürecini ve mobil arayüzü (React Native + Expo) tek başıma geliştiriyorum. Ürünün ilkesi: "Piyasa tahmin edilmez, okunur."
 
 ## Üzerinde çalıştıklarım
 
