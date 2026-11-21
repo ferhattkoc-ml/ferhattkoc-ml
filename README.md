@@ -27,4 +27,4 @@ Python, FastAPI, PostgreSQL, SQL, pandas, scikit-learn, React Native, Expo, Type
 
 ## İletişim
 
-[quantumanaliz.com](https://www.quantumanaliz.com) · ferhattkoc16@icloud.com
+[quantumanaliz.com](https://www.quantumanaliz.com) · ferhatkoc154@gmail.com
